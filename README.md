@@ -19,6 +19,7 @@ topics of swift that includes following few points:
       - **tableView(_:cellForRowAt:)** - This method will actually create the particular cell. We have to return a cell from this method in order to show it in the table view.
       - **tableView(_:didSelectRowAt:)** - This method will keep a login of what we want to do after selection of the particular cell.
   * **UIImageView:** This uses to show an image on the screen.
+  * **AutoLayout:** Added a constraints to the view in order to make the response layout.
 
 Moving further, let's go to the project idea now.
 
@@ -36,6 +37,7 @@ As I already mentioned that this is very basic and easy iOS application. The ide
       - There should be an option at top left corner to go back to the first screen.
       - The title of the screen should mention index of number/ total number of images. For example 4/10.
       - After tapping on an image the back button and title of the screen should hide and viceversa.
+  - The entire layout should be responsive.
 
 
 <a id=testing>
@@ -46,3 +48,4 @@ Please refer the following screenshots and testing video to verify the behavior 
 ![StromeViewers-Screen-2](https://user-images.githubusercontent.com/83705143/216782039-ddc03409-c9d3-4df6-a6f1-ad1dc9932c00.png)
 
 https://user-images.githubusercontent.com/83705143/216782069-0c65c580-240a-449d-8c61-0f735e1903ce.mov
+https://user-images.githubusercontent.com/83705143/216782504-327a3a4d-f091-4ac8-9080-9f9a664f51e0.mov
